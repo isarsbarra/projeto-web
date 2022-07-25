@@ -11,5 +11,7 @@
 <a href="minha-servlet">Chamar a Servlet</a>
 <br/>
 <a href="cliente-servlet">Chamar a Cliente Servlet</a>
+<br/>
+<a href="cadastro-cliente.jsp">Cadastrar Cliente</a>
 </body>
 </html>
